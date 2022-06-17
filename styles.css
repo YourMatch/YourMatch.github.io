@@ -1,12 +1,12 @@
 h1 {
     text-align: center;
-    color:  black;
+    color:  rgba(255, 255, 0, 0.788);
     font-size: 3em;
     font-family: 'Gadugi';
     } 
 
 p {
-    color: black;
+    color: white;
     font-family: 'Nobile', Helvetica, Arial;
     font-size: 18px;
 }
@@ -19,11 +19,15 @@ body {
 }
 
 h2, h3{
-    color: black;
+    color: rgba(255, 255, 0, 0.788);
     font-family: 'Gadugi';
     font-size: 1.7em;
 }
 
 a{
-    color: yellow;
+    color: rgba(255, 255, 0, 0.788);
+}
+
+ul{
+    color: white;
 }
