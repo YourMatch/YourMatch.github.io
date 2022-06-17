@@ -1,0 +1,29 @@
+h1 {
+    text-align: center;
+    color:  black;
+    font-size: 3em;
+    font-family: 'Gadugi';
+    } 
+
+p {
+    color: black;
+    font-family: 'Nobile', Helvetica, Arial;
+    font-size: 18px;
+}
+
+body {
+    max-width: 650px;
+    font-size: 18px;
+    font-family: 'Gadugi';
+    margin: 50px;
+}
+
+h2, h3{
+    color: black;
+    font-family: 'Gadugi';
+    font-size: 1.7em;
+}
+
+a{
+    color: yellow;
+}
